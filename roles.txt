@@ -1,0 +1,6 @@
+mb-ivanov-ii=outer,military
+mb-sidirov-ss=vsp
+srb-petrov-pp=inner,social
+srb-sidirov-ss=vsp
+mb-petrov-pp=inner,social
+srb-ivanov-ii=outer,military

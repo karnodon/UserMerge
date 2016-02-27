@@ -1,0 +1,5 @@
+srb-ivanov-ii=beznal_outer
+srb-petrov-pp=beznal_inner
+srb-sidirov-ss=beznal_vsp
+srb-ivanov-ii=beznal_military
+srb-petrov-pp=beznal_social

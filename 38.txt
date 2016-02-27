@@ -1,0 +1,5 @@
+mb-ivanov-ii=beznal_outer
+mb-petrov-pp=beznal_inner
+mb-sidirov-ss=beznal_vsp
+mb-ivanov-ii=beznal_military
+mb-petrov-pp=beznal_social
